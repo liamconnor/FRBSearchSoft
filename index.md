@@ -4,6 +4,8 @@
 * Time: 9:30 - 17:00
 * Location: University of Amsterdam
 
+Notes on the workshop can be found [here](https://docs.google.com/document/d/1CiqdXnerSkbXhbEX4IseA0-ppgB29nnpodW7PZF5fmw/edit?usp=sharing). **Please feel free to add your notes and available data**
+
 ### People involved
 * Joeri van Leeuwen (ASTRON, Dwingeloo, the Netherlands)
 * Liam Connor (University of Amsterdam, Amsterdam, the Netherlands)
@@ -32,22 +34,6 @@
   * Design Benchmark (data, simulations, metrics, etc)
 * Closing
 
-Potential deliverables:
+### Potential deliverables
 * Global benchmark design and an overview of existing data
 * Some dockerized software packages
-
-## Notes
-
-* It would be great to be able to include different components as well, instead of a whole pipeline (for example AstroAccelarate does only one part and is not a complete pipeline). It would be nice to see how different components mix and match
-* We should discuss and agree on interfaces (what is fed into the software), is it possible to have a layer of abstraction? Cheeta is providing something like that. Would be interesting to discuss this further. Maybe separate workshop?
-* Next to benchmarking, unit tests would be very helpful as well. Maybe look at the continuous benchmarking, example from the medical image analysis field: https://continuousregistration.grand-challenge.org/
-* Which simulations to inject? Maybe try different ones?
-* We should take into account that there is a danger that you are overtuning your software for the simulations, maybe also test on real data? With observer study (astronomers) as a next step?
-* Make an overview of all search and injection codes
-* Unit tests would be great. If you change something to the code, are FRBs still found (that’s what would be great to have). 
-* Evaluation: Use a confusion matrix or ROC curve for each region of parameter space?
-* Ccp4 uk initiative (http://www.ccp4.ac.uk/), collaborative computational project in a different field, could be used as an example. 
-* Maybe later, add more data to improve the frb detection software, like lightning data etc
-* Maybe start easy with Gaussian data and inject pulses. Focus only on accuracy? Or also speed?
-
-
