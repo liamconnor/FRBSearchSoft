@@ -14,8 +14,7 @@
 
 ### Workshop program
 * Opening by Liam Connor (University of Amsterdam, Amsterdam, the Netherlands)
-* Talk by Adriënne Mendrik (Netherlands eScience Center, Amsterdam, the Netherlands) “Introduction to Challenges and the EYRA Benchmark Platform” 
-["Grand Challenges in Medical Image Analysis"](https://github.com/NLeSC/IEEE-eScience-Tutorial-Designing-Benchmarks/blob/master/Grand%20Challenges%20in%20Medical%20Image%20Analysis.pdf)
+* Talk by Adriënne Mendrik (Netherlands eScience Center, Amsterdam, the Netherlands) “Introduction to Challenges and the EYRA Benchmark Platform” [(slides are here)](https://github.com/EYRA-Benchmark/FRBSearchSoft/blob/master/FRB%20Benchmark%20Workshop%20-%20Adrienne%20Mendrik%20(eScience%20center)%20.pdf)
 * Liam Connor (University of Amsterdam) “Introduction to the FRB Detection Benchmark Initiative”
 * Coffee Break
 * Brainstorm on the FRB Detection Benchmark:
